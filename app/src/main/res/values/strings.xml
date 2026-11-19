@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chain Alarm</string>
+    <string name="accessibility_desc">Watches the Clock app only. When you add an alarm by hand, or when an alarm rings, Chain Alarm starts a timer to the next alarm. It also keeps the app alive so the daily schedule keeps running. It does not read your screen.</string>
+</resources>
